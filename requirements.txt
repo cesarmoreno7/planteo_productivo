@@ -16,5 +16,6 @@ matplotlib.pyplot
 plotly.express
 plotly.graph_objects
 feedparser
-requests.packages.urllib3.exceptions import InsecureRequestWarning
+requests.packages.urllib3.exceptions 
+InsecureRequestWarning
 lxml
