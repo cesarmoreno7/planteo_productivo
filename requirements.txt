@@ -6,3 +6,15 @@ plotly==5.9.0
 Requests==2.31.0
 seaborn==0.13.1
 streamlit==1.28.2
+
+pandas
+streamlit
+requests
+streamlit.components.v1
+seaborn
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
+feedparser
+requests.packages.urllib3.exceptions import InsecureRequestWarning
+lxml
